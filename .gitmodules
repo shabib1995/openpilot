@@ -16,3 +16,6 @@
 [submodule "tinygrad"]
   path = tinygrad_repo
   url = https://github.com/tinygrad/tinygrad.git
+[submodule "opendbc"]
+  path = opendbc_repo
+  url = ../../shabib1995/opendbc.git 
